@@ -6,4 +6,4 @@ Routes to check out:
 - https://localhost:7182/env
 - https://localhost:7182/metrics
 - https://localhost:7182/health
-- https://localhost:7182/weatherforecast/{int:min(1)}
+- https://localhost:7182/weatherforecast/{int:min(1)} (e.g. https://localhost:7182/weatherforecast/5)
